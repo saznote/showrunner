@@ -1,0 +1,8 @@
+{
+  "name": "Remix Showrunner Studio - YouTube Shorts Scripts \u0026 RPM",
+  "description": "Studio d\u0027écriture de scripts YouTube Shorts viraux pour avatar virtuel, analyse d\u0027audience et calcul de jackpot financier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
